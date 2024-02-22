@@ -1,7 +1,5 @@
 # project_magnitograms
 
-Image segmentation
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ctmywu1Ko0iojE4HnimdZibSgFnda5nV?usp=sharing)
 
 Для проверки газовых труб на наличие дефектов используются специальные устройства-дефектоскопы, которые движутся по трубам и снимают магнитограммы при помощи датчиков.
